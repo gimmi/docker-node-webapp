@@ -1,0 +1,9 @@
+{
+  "name": "docker-node-webapp",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
